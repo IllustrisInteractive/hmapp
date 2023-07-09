@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440860067666",
+    "project_id": "hmapp-af281",
+    "storage_bucket": "hmapp-af281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440860067666:android:01f4e45245274e1670dc8b",
+        "android_client_info": {
+          "package_name": "com.example.hmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440860067666-8tfdhivo1unpjclmh8u3rt05smqu6png.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUk8pGU8CHz8LQIGgsWSAyElB1thmL6wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440860067666-8tfdhivo1unpjclmh8u3rt05smqu6png.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
